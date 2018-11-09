@@ -1,0 +1,3 @@
+Weather Observation Station 1(ORACLE)
+
+SELECT CITY,STATE FROM STATION

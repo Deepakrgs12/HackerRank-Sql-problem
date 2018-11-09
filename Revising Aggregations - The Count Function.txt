@@ -1,0 +1,3 @@
+Revising Aggregations - The Count Function(ORACLE)
+
+SELECT COUNT(NAME) FROM CITY WHERE POPULATION>100000;

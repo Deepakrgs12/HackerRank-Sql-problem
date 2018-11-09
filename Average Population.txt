@@ -1,0 +1,3 @@
+Average Population(ORACLE)
+
+SELECT ROUND(AVG(POPULATION)) FROM CITY;

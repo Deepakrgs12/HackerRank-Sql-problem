@@ -1,0 +1,5 @@
+Draw The Triangle 1(ORACLE)
+
+SELECT SUBSTR(RPAD('* ', 40, '* '), 1, (42 - LEVEL * 2))  
+FROM DUAL 
+CONNECT BY LEVEL <= 20;

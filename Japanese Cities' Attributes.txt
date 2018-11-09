@@ -1,0 +1,3 @@
+Japanese Cities' Attributes(ORACLE)
+
+SELECT * FROM CITY WHERE COUNTRYCODE='JPN';

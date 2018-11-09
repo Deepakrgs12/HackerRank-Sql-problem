@@ -1,0 +1,3 @@
+Revising Aggregations - The Sum Function(ORACLE)
+
+SELECT SUM(POPULATION) FROM CITY WHERE DISTRICT = 'California';

@@ -1,0 +1,4 @@
+Population Density Difference(ORACLE)
+
+    
+SELECT MAX(POPULATION)-MIN(POPULATION) FROM CITY;
